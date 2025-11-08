@@ -1,4 +1,4 @@
-public class Solution
+public class Solution1590
 {
 	public int MinSubarray(int[] nums, int p)
 	{
@@ -38,11 +38,3 @@ public class Solution
 		return shortest;
 	}
 }
-
-
-/* 
- *
- * 6  3  5  2
- * 6  9  14 16 
- *
- */

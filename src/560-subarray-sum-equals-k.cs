@@ -1,4 +1,4 @@
-public class Solution
+public class Solution560
 {
   public int SubarraySum(int[] nums, int k)
   {

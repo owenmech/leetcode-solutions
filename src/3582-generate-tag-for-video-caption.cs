@@ -1,4 +1,6 @@
-public class Solution
+using System.Text;
+
+public class Solution3582
 {
   public string GenerateTag(string caption)
   {
